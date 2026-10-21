@@ -6,14 +6,14 @@ body {
 
 .kartu-profil {
     width: 450px; 
-    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */ 
-    padding: 30px;
+    margin: 50px auto; /* px jarak atas/bawah, auto menengahkan kiri/kanan */ 
+    padding: 20px;
     background-color: white;
-    border-radius: 18px; /* Membuat sudut menjadi melengkung */ 
+    border-radius: 15px; /* Membuat sudut menjadi melengkung */ 
     box-shadow: 0 4px 8px rgba(255, 99, 71); /* Efek bayangan */ 
-    text-align: center; 
+    text-align:center; 
 } 
-|
+
 
 .kartu-profil img { 
   width: 75px;
